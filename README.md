@@ -158,9 +158,9 @@ npm run build
 - **RESTful API Design** - Scalable endpoint architecture
 - **Environment-based Configuration** - Easy deployment across environments
 
-## 👨‍💻 Team Members & Contributions
+## Team Members & Contributions
 
-### 🧠 Sayan Bhattacharya — Lead Developer & Project Architect
+### Sayan Bhattacharya — Lead Developer & Project Architect
 
 * Designed and implemented the complete full-stack architecture
 * Developed frontend using React with modern hooks and component-based structure
@@ -175,7 +175,7 @@ npm run build
 
 ---
 
-### 🏗️ Debasish Karn — Project Architect
+###  Debasish Karn — Project Architect
 
 * Contributed to system architecture planning and design
 * Assisted in defining scalable and maintainable project structure
@@ -183,7 +183,7 @@ npm run build
 
 ---
 
-### 🎨 Saswataduity Bhuin — Project Designer
+###  Saswataduity Bhuin — Project Designer
 
 * Designed UI/UX of the application
 * Created user-friendly layouts and visual elements
@@ -191,7 +191,7 @@ npm run build
 
 ---
 
-### 🧪 Rishav Dewan — Tester & Debugger
+###  Rishav Dewan — Tester & Debugger
 
 * Tested application features across different scenarios
 * Identified and resolved bugs in both frontend and backend
@@ -199,7 +199,7 @@ npm run build
 
 ---
 
-### 📋 Siddhant Giri — Project Manager
+###  Siddhant Giri — Project Manager
 
 * Managed team coordination and workflow
 * Assigned tasks and tracked progress
